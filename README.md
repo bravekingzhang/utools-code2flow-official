@@ -1,4 +1,4 @@
-![](https://github.com/bravekingzhang/utools-code2flow-official/blob/main/head.png)
+<img src="https://github.com/bravekingzhang/utools-code2flow-official/blob/main/head.png" alt="收款码" style="width: 50%;" />
 
 ## uTools插件 - code2flow 代码绘制流程图
 
