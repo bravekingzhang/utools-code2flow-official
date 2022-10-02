@@ -1,0 +1,26 @@
+{
+    "pluginName": "code2flow 代码绘制流程图",
+    "version": "0.0.1",
+    "description": "code2flow",
+    "author": "brzhang",
+    "homepage": "https://github.com/bravekingzhang",
+
+    "preload": "preload.js",
+    "logo": "logo.png",
+	"features": [
+		{
+		  "code": "code2flow",
+		  "explain": "快速创建流程图的工具，让你的代码分享逼格更高、排版更直观",
+			"cmds":[
+				"code2flow",
+				"流程图",
+				"调用链",
+				"在线绘图",
+				{
+					"type": "over",
+					"label": "code2flow 代码绘制流程图"
+				}
+			]
+		}
+	]
+}
