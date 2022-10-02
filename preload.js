@@ -10,7 +10,7 @@ window.exports = {
         // do some thing
         window.utools.outPlugin();
 
-        window.utools.ubrowser.goto("https://code2flow.com/app/").show().run({
+        window.utools.ubrowser.goto("https://app.code2flow.com/").show().run({
           show: true,
           width: 1000,
           height: 780,
